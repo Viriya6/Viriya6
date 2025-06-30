@@ -7,5 +7,6 @@ me love competitive programming! 🔽🔽🔽
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viriya6&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viriya6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viriya6&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="lang">
 </div>
