@@ -6,7 +6,8 @@ me love competitive programming! 🔽🔽🔽
   <a href="https://codeforces.com/profile/Viriya6"> <img src="https://github.com/user-attachments/assets/81a1fe20-e09e-4ce0-8353-9cb664b5d846" height=31 width=99.5 alt="codeforce"> </a>
 </div>
 
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viriya6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viriya6&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="lang">
 </div>
