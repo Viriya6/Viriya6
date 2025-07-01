@@ -1,5 +1,5 @@
-## # About me 🧑🏻
-me love competitive programming! 🔽🔽🔽
+## # About me 🧑🏻‍💻
+me love competitive programming! ⬇️⬇️⬇️
 
 <div align="left">
   <a href="https://tlx.toki.id/profiles/Viriya6">  <img src="https://github.com/user-attachments/assets/686f362a-ebf8-47d5-9809-1be245c42b40" height=31.5 width=100 alt="tlx"> </a>
