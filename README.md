@@ -9,5 +9,9 @@ me love competitive programming! ⬇️⬇️⬇️
 ###
 
 <div align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Viriya6&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" height=156 width=210 alt="codeforces">
+</div>
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viriya6&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="lang">
 </div>
