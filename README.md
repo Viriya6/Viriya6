@@ -1,4 +1,4 @@
-## # About me 🧑🏻‍💻
+## # About me 🧑🏻‍💻 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Viriya6)
 me love competitive programming! ⬇️⬇️⬇️
 
 <div align="left">
