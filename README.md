@@ -1,5 +1,5 @@
 ## # About me 🧑🏻‍💻 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Viriya6)
-me love competitive programming! ⬇️⬇️⬇️
+competitive programming!
 
 <div align="left">
   <a href="https://tlx.toki.id/profiles/Viriya6" target="_blank">  <img src="https://github.com/user-attachments/assets/686f362a-ebf8-47d5-9809-1be245c42b40" height=31.5 width=100 alt="tlx"> </a>
@@ -7,6 +7,9 @@ me love competitive programming! ⬇️⬇️⬇️
 </div>
 
 ###
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <div align="left">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Viriya6&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" height=156 width=210 alt="codeforces">
