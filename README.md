@@ -2,7 +2,9 @@
 
 Hello, World! My name is Viriya
 
-```SAYA KORBAN DARI PAK DENGKLEK DAN PARA BEBEK-BEBEKNYA !```
+```SAYA BABU DARI PAK DENGKLEK DAN PARA BEBEK-BEBEKNYA !```
+
+```I AM A SERVANT OF MR. DENGKLEK AND HIS DUCKS !```
 
 ## known a child named $S$, determine the number of letters "A" in the name!
 
