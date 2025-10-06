@@ -7,7 +7,7 @@ Hello, World! My name is Viriya
 ## known a child named $S$, determine the number of letters "A" in the name!
 
 ɪɴᴘᴜᴛ ꜰᴏʀᴍᴀᴛ
-> A line containing sting $S$
+> A line containing string $S$
 
 ᴏᴜᴛᴘᴜᴛ ꜰᴏʀᴍᴀᴛ
 > Total number of letters "A" in the string.
