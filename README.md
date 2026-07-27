@@ -9,5 +9,3 @@ Hello, My name is Viriya
 ### 🔧 Programming Language:
 ![Python](https://img.shields.io/badge/python-%F0%9F%90%8D-blue)
 ![C++](https://img.shields.io/badge/c%2B%2B-%F0%9F%92%BB-blue)
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fknhwwmk5rrwsun6fds72g2pea)
